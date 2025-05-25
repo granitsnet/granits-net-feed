@@ -5,7 +5,7 @@
     <company>ГРАНИЦ НЕТ</company>
     <url>https://granits-net.com/hostes</url>
     <sets>
-      <set name="Россия" id="1"/>
+     <set id="1" name="Россия"/>
     </sets>
     <offers>
       <offer id="1">
